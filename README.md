@@ -1,6 +1,6 @@
 # Trabajo Final
 ## Introducción
-Este proyecto consta de la realización de un nuevo diseño y desarrollo del sitio web para el Jardín de Niños Semillita. En la actualidad el Jardin posee un página web, pero esta carece de una buena arquitectura de la iformación y diseño, además de ser estática, por lo que en celulares o otros dispositivos móviles es muy dificil navegar en ella. 
+Este proyecto consta de la realización de un nuevo diseño y desarrollo del sitio web para el Jardín de Niños Semillita. En la actualidad el Jardín posee un página web, pero esta carece de una buena arquitectura de la iformación y diseño, además de ser estática, por lo que en celulares o otros dispositivos móviles es muy dificil navegar en ella. 
 
 ## Objetivo Principal
 Para este proyecto el objetivo principal es realizar una sitio administrable, donde se puedan subir noticias y actividades periodicamente, que además sea responsive y que posea una buena arquitectura de la información.
@@ -15,7 +15,7 @@ Esta web posee las siguientes páginas:
 * **Página Información:**
 	Se accede a ella a través de la sección de *Información* en el index, en esta página vemos tres temas, colación saludable, útiles escolares y el manual de prevención del maltrato infantil.
 * **Página feriados:**
-	Se accede a ella a través de la sección de *Noticias*. En ella vemos los feriados de cada año, son generados a través de una Api REST.
+	Se accede a ella a través de la sección de *Noticias*. En ella vemos los feriados de cada año, son generados a través de una *Api REST*.
 * **Página Noticias:** 
 	Se accede a ella a través de la sección de *Noticias* en el index mediante el link "Ver más noticias". Esta sección utiliza las entradas por defecto de Wordpress.
 * **Páginas de cada noticia:**
