@@ -8,15 +8,15 @@ Para este proyecto el objetivo principal es realizar una sitio administrable, do
 ## Descripcion
 Esta web posee las siguientes páginas:
 
-* **Index**
+* **Index:**
 	Página principal, es una página que nos lleva a distintas secciones a traves del menú de navegación.
-* **Página Nosotros**
+* **Página Nosotros:**
 	A esta página se accede a traves de la sección *Nosotros* ubicada en el index, o por medio de los menú de navegación. En ella encontramos una descripción completa del Jardín además de la historia y el reglamento.
-* **Página Información**
+* **Página Información:**
 	Se accede a ella a traves de la sección de *Información* en el index, en esta página vemos tres temas, colación saludable, útiles escolares y el manual de prevención del maltrato infantil.
-* **Página feriados**
+* **Página feriados:**
 	Se accede a ella a traves de la sección de *Noticias*. En ella vemos los feriados de cada año, son generados a traves de una Api REST.
-* **Página Noticias** 
+* **Página Noticias:** 
 	Se accede a ella a traves de la sección de *Noticias* en el index mediante el link "Ver más noticias". Esta sección utiliza las entradas por defecto de Wordpress.
 * **Páginas de cada noticia**
 	Cada noticia posee un *permalink* que lo lleva a una pagina completa donde se encuentra cada noticia.
