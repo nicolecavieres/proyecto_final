@@ -1,6 +1,6 @@
 # Trabajo Final
 ## Introducción
-Este proyecto consta de la realización de un nuevo diseño y desarrolo del sitio web para el Jardín de Niños Semillita. En la actualidad el Jardin posee un página web, pero esta carece de una buena arquitectura de la iformación y diseño, además de ser estática, por lo que en celulares o otros dispositivos móviles es muy dificil navegar en ella. 
+Este proyecto consta de la realización de un nuevo diseño y desarrollo del sitio web para el Jardín de Niños Semillita. En la actualidad el Jardin posee un página web, pero esta carece de una buena arquitectura de la iformación y diseño, además de ser estática, por lo que en celulares o otros dispositivos móviles es muy dificil navegar en ella. 
 
 ## Objetivo Principal
 Para este proyecto el objetivo principal es realizar una sitio administrable, donde se puedan subir noticias y actividades periodicamente, que además sea responsive y que posea una buena arquitectura de la información.
