@@ -13,9 +13,9 @@ Esta web posee las siguientes páginas:
 * **Index:**
 	Página principal, es la página en la que se encuentran las principales secciones de la web, se accede a ellas a través del menú de navegación o haciendo *scroll*. 
 Estas secciones son:
-	*Nosotros
-	*Información
-	*Noticias
+	* Nosotros
+	* Información
+	* Noticias
 * **Página Nosotros:**
 	A esta página se accede a través de la sección *Nosotros* ubicada en el index, o por medio de los menú de navegación. En ella encontramos una descripción completa del Jardín, además de la historia y el reglamento del mismo.
 
