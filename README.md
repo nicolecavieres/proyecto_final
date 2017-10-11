@@ -12,7 +12,7 @@ Esta web posee las siguientes páginas:
 
 * **Index:**
 	Página principal, es la página en la que se encuentran las principales secciones de la web, se accede a ellas a través del menú de navegación o haciendo *scroll*. 
-Estas secciones son:
+	Estas secciones son:
 	* Nosotros
 	* Información
 	* Noticias
